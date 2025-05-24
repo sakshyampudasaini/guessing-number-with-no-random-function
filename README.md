@@ -26,5 +26,5 @@ This Python script allows the user to guess a predefined secret number. The play
 3. Run the script using the command:
 
    
-bash
+ ```bash
    python number_guessing_game.py
